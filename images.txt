@@ -8,3 +8,4 @@ python:alpine3.19
 xiaoyaliu/alist:latest
 nyanmisaka/jellyfin
 lvxj11/erpnext
+cloudnas/clouddrive2
