@@ -1,1 +1,2 @@
 chigusa/bililive-go:latest
+jeessy/ddns-go:latest
