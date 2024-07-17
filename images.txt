@@ -9,4 +9,4 @@ python:alpine3.19
 nyanmisaka/jellyfin
 lvxj11/erpnext
 云nas/云驱动2
-chigusa/bililive-go:最新
+
