@@ -1,11 +1,12 @@
-nginx
+一款反向代理网页服务器
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+xhofe/list:最新
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+-platform = Linux/arm 64 xiaoya Liu/list
 python:alpine3.19
-xiaoyaliu/alist:latest
+小鸭柳/列表:最新
 nyanmisaka/jellyfin
 lvxj11/erpnext
-cloudnas/clouddrive2
+云nas/云驱动2
+chigusa/bililive-go:最新
