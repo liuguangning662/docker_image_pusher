@@ -1,6 +1,4 @@
 chigusa/bililive-go:latest
 jeessy/ddns-go:latest
 marktoday/immich-server
-cimg/redis
-drud/postgres
-altran1502/immich-machine-learning
+
