@@ -1,4 +1,3 @@
 chigusa/bililive-go:latest
 jeessy/ddns-go:latest
-marktoday/immich-server
-
+altran1502/immich-server
