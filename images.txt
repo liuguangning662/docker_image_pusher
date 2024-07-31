@@ -1,4 +1,3 @@
 chigusa/bililive-go:latest
 jeessy/ddns-go:latest
-vaultwarden/server:latest
-bitwardenrs/server:latest
+jc21/nginx-proxy-manager:latest
