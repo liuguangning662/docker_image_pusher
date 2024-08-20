@@ -1,1 +1,1 @@
-dezhao/immich:latest
+marktoday/immich-server:latest
