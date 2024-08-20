@@ -1,1 +1,1 @@
-RROrg/rr:latest
+bertmelis/immich-machine-learning-no-avx:latest
