@@ -1,1 +1,1 @@
-marktoday/immich-server:latest
+someonewating/immich:latest
