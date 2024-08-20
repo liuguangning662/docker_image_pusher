@@ -1,1 +1,1 @@
-immich-app/immich
+immich-app/immich:latest
