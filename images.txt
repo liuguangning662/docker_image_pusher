@@ -1,1 +1,2 @@
 someonewating/immich:latest
+nsg/immich-distribution-redis:latest
