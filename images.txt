@@ -1,4 +1,1 @@
-altran1502/immich-server:latest
-altran1502/immich-web:latest
-altran1502/immich-machine-learning:latest
-altran1502/immich-proxy:latest
+
