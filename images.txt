@@ -1,1 +1,1 @@
-immich-app/immich:latest
+liuguangning662/immich:latest
