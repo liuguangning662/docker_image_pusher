@@ -1,1 +1,1 @@
-linuxserver/Heimdall:latest
+frappe/erpnext:latest
